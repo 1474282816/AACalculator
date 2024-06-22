@@ -1,0 +1,15 @@
+{
+  "development": {
+    "main": "http://127.0.0.1:8000"
+  },
+  "main": "index.html",
+  "preload": "preload.js",
+  "logo": "logo.png",
+  "features": [
+    {
+      "code": "aa",
+      "explain": "AA制计算器",
+      "cmds": ["aa", "计算器"]
+    }
+  ]
+}

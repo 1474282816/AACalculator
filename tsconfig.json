@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["src/*"],
+      "@@/*": ["./src/.umi/*"],
+      "@mui/material": ["./node_modules/@mui/joy"]
+    }
+  },
+  "extends": "./src/.umi/tsconfig.json"
+}
